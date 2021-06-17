@@ -7,7 +7,7 @@
 
 Gitfolio will help you get started with a portfolio website where you could showcase your work + a blog that will help you spread your ideas into real world.
 
-Check out this [live demo](https://imfunniee.github.io/gitfolio/) to see gitfolio in action.
+Check out this [live demo](https://jonfirexbox.github.io/) to see gitfolio in action.
 
 # Getting Started
 
